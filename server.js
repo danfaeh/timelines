@@ -1,15 +1,11 @@
 var express = require('express');
+var path = require('path');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 var hbs = require('hbs');
 var hbsutils = require('hbs-utils')(hbs);
 
 var pages = require('./routes/pages');
-var contact = require('./routes/contact');
-var products = require('./routes/products');
-var logos = require('./routes/logos');
-var users = require('./routes/users');
-var about = require('./routes/about');
 
 // Init App
 var app = express();
@@ -24,8 +20,8 @@ app.set('view engine', 'hbs');
 // });
 
 // Register Partials
-// hbs.registerPartials(__dirname + '/views/partials');
-// hbsutils.registerWatchedPartials(__dirname + '/views/partials'); // partial changes will restart nodemon
+hbs.registerPartials(__dirname + '/views/partials');
+hbsutils.registerWatchedPartials(__dirname + '/views/partials'); // partial changes will restart nodemon
 
 // BodyParser Middleware
 app.use(bodyParser.json());
@@ -37,11 +33,6 @@ app.use(cookieParser());
 app.use("/public", express.static("public"));
 
 app.use('/', pages);
-app.use('/', contact);
-app.use('/products', products);
-app.use('/logos', logos);
-app.use('/users', users);
-app.use('/about', about);
 
 // Set Port
 app.set('port', (process.env.PORT || 4000));

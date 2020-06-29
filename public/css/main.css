@@ -1,0 +1,507 @@
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  padding: 5px;
+  height: 200%;
+  width: auto;
+  position: relative;
+  margin: -26% 0 0 0;
+}
+
+#homeBackdrop{
+    height: 86vh;
+    margin-top: -4em;
+}
+
+#home1{
+    background-color: white;
+}
+
+#home2{
+    background-color: black;
+    height: 100%;        
+}
+
+#topArc{
+  margin-top: 8%;
+}
+
+#bottomArc{
+  margin-top: 8%;
+}
+
+#homeInfoSection{
+    top: -15em;
+    position: relative; 
+}
+
+#homeButtonSection{
+    top: -13em;
+    position: relative; 
+    color:white;              
+}
+
+#mainNav{
+    background-color: white; 
+    height: 7em;
+}
+
+.nav li {
+  font-weight: 300;
+}
+
+#socialNav{
+    background-color: rgba(167, 230, 118, 1);  
+    margin-bottom: 0;
+    border: none;
+    max-height: 2.4em;
+}
+
+.homebtns{
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.homeInfo{
+  color:white;
+}
+
+.img-circle{
+    max-height: 17em;
+    margin: 0 auto;  
+}
+
+.yellowLetters{
+    text-shadow: -1px 0 yellow, 0 1px yellow, 1px 0 yellow, 0 -1px yellow; 
+    color:white;          
+}
+
+.nav-links{
+    margin: 0 4.4em 0 0;
+}
+
+.navbar-brand{
+    padding-left: 4.7em;
+}
+
+.social-group{
+    /*margin-top: -0.6em;*/
+    margin: -0.6em 4.4em 0 0;
+}
+
+.center-links{
+   padding-top: 1.5em;
+}
+
+.page-content{
+    margin-top:12em;
+}
+
+.drawing {
+    height: 8em;
+}
+
+#myCarousel {
+    position: relative; 
+}
+
+/*--------------------Footer css---------------------*/
+/*
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2em;
+    background-color: #f5f5f5;
+}*/
+
+#partialFooter{
+   background-color: #5B5F73;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 35px;
+    text-align: center;
+    color: #CCC;
+}
+
+#partialFooter p {
+    padding: 10.5px;
+    margin: 0px;
+    line-height: 100%;
+}
+
+/*--------------------/Footer css---------------------*/
+
+.adminBtn{
+  margin-top: 1.5em;
+}
+
+/*--------------------shop css---------------------*/
+
+.thumbnail a>img, 
+.thumbnail>img {
+    height: 20em;
+}
+
+.glyphicon{ 
+    margin-right:5px; 
+}
+
+.thumbnail{
+    margin-bottom: 20px;
+    padding: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+.productItem{
+  height: 475px;
+}
+
+.item.list-group-item{
+    float: none;
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
+
+/*.item.list-group-item:nth-of-type(odd):hover,.item.list-group-item:hover{
+    background: #428bca;
+}*/
+
+.item.list-group-item .list-group-image{
+    margin-right: 10px;
+}
+
+.item.list-group-item .thumbnail{
+    margin-bottom: 0px;
+}
+
+.item.list-group-item .caption{
+    padding: 9px 9px 0px 9px;
+}
+
+.item.list-group-item:nth-of-type(odd){
+    background: #eeeeee;
+}
+
+
+.item.list-group-item:before, .item.list-group-item:after{
+    display: table;
+    content: " ";
+}
+
+
+.item.list-group-item img{
+    float: left;
+}
+
+.item.list-group-item:after{
+    clear: both;
+}
+
+.list-group-item-text{
+    margin: 0 0 11px;
+}
+
+.about-img{
+    margin: 0 auto;
+    max-width: 35% !important;
+}
+
+.home-img{
+    margin: 0 auto;
+    max-width: 35% !important;
+    display:block;
+}
+
+.about-content{
+    padding: 0 3em;
+}
+
+.about-btn{
+    bottom: 1em;
+    left: -0.5em;
+    position: relative;
+}
+
+/*--------------------Shop css---------------------*/
+/*--------------------Contact css---------------------*/
+
+.jumbotron {
+background: #358CCE;
+color: #FFF;
+border-radius: 0px;
+}
+.jumbotron-sm { padding-top: 24px;
+padding-bottom: 24px; }
+.jumbotron small {
+color: #FFF;
+}
+.h1 small {
+font-size: 24px;
+}
+
+/*--------------------Contact css---------------------*/
+
+
+.modal-dialog {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: lightblue;
+}
+
+.modal-content {
+  height: auto;
+  min-height: 100%;
+  border-radius: 0;
+}
+
+/*------------------------ random css ------------------------------*/
+
+#auth-logo{
+    width: 15em;
+    margin: 0 auto;
+    display: block;
+}
+
+.page-header{
+    margin-top: 0;
+}
+
+.buttonMiddle{
+    display: table;
+    margin: 0 auto;
+}
+
+
+/*---------------------Rotate-----------------------------*/
+
+/*.char1 {
+  transform: rotate(6deg);
+}
+
+.char2 {
+  transform: rotate(12deg);
+}
+
+.char3 {
+  transform: rotate(18deg);
+}
+
+.char4 {
+  transform: rotate(24deg);
+}
+
+.char5 {
+  transform: rotate(30deg);
+}
+
+.char6 {
+  transform: rotate(36deg);
+}
+
+.char7 {
+  transform: rotate(42deg);
+}
+
+.char8 {
+  transform: rotate(48deg);
+}
+
+.char9 {
+  transform: rotate(54deg);
+}
+
+.char10 {
+  transform: rotate(60deg);
+}
+
+.char11 {
+  transform: rotate(66deg);
+}
+
+.char12 {
+  transform: rotate(72deg);
+}
+
+.char13 {
+  transform: rotate(78deg);
+}
+
+.char14 {
+  transform: rotate(84deg);
+}
+
+.char15 {
+  transform: rotate(90deg);
+}
+
+.char16 {
+  transform: rotate(96deg);
+}
+
+.char17 {
+  transform: rotate(102deg);
+}
+
+.char18 {
+  transform: rotate(108deg);
+}
+
+.char19 {
+  transform: rotate(114deg);
+}
+
+.char20 {
+  transform: rotate(120deg);
+}
+
+.char21 {
+  transform: rotate(126deg);
+}
+
+.char22 {
+  transform: rotate(132deg);
+}*/
+
+/*---------------------Rotate-----------------------------*/
+
+/*#bottomArc .char1 {
+  transform: rotate(6deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char2 {
+  transform: rotate(12deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char3 {
+  transform: rotate(18deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char4 {
+  transform: rotate(24deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char5 {
+  transform: rotate(30deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char6 {
+  transform: rotate(36deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char7 {
+  transform: rotate(42deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char8 {
+  transform: rotate(48deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char9 {
+  transform: rotate(54deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char10 {
+  transform: rotate(60deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char11 {
+  transform: rotate(66deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char12 {
+  transform: rotate(72deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char13 {
+  transform: rotate(78deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char14 {
+  transform: rotate(84deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char15 {
+  transform: rotate(90deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char16 {
+  transform: rotate(96deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char17 {
+  transform: rotate(102deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char18 {
+  transform: rotate(108deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char19 {
+  transform: rotate(114deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char20 {
+  transform: rotate(120deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char21 {
+  transform: rotate(126deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}
+
+#bottomArc .char22 {
+  transform: rotate(132deg);
+  margin-top: 200px;
+  transform-origin: bottom center;
+}*/
+

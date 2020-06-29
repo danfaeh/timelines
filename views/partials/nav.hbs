@@ -1,0 +1,89 @@
+<nav class="navbar-fixed-top">
+  <nav id="socialNav" role="navigation">
+      <div class="container-fluid">
+          <!-- add header -->
+          <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button>
+              {{!-- <a class="navbar-brand" href="#">Pickleball Rockers</a> --}}
+          </div>
+          <!-- menu items -->
+          <div class="collapse navbar-collapse" id="navbar1">
+  {{!--             <ul class="nav navbar-nav">
+                  <li class="active"><a href="#">Mens</a></li>
+                  <li><a href="#">Womens</a></li>
+                  <li><a href="#">Kiddies</a></li>
+              </ul> --}}
+              <!-- social media icons -->
+              <ul class="nav navbar-nav navbar-right social-group">
+                  <li><a href="http://Facebook.com/pickleballrockers"><i class="fa social fa-facebook"></i></a></li>
+                  <li><a href="#"><i class="fa social fa-twitter"></i></a></li>
+                  <li><a href="#"><i class="fa social fa-google-plus"></i></a></li>
+                  <li><a href="#"><i class="fa social fa-linkedin"></i></a></li>
+                  <li><a href="/cart" class="btn btn-secondary" aria-label="View 3 items in your shopping cart">
+                      <i class="fa fa-shopping-cart" aria-hidden="true"><span id="navCartItems"></span></i>
+                    </a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </nav>
+
+  <nav id="mainNav" class="navbar navbar-default">
+      <div class="container-fluid center-links">
+          <!-- Brand and toggle get grouped for better mobile display -->
+          <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                  <span class="sr-only">Toggle navigation</span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+              </button>
+              {{!-- <a class="navbar-brand page-scroll" href="/">Pickleball Rockers</a> --}}
+
+              <a class="navbar-brand page-scroll" href="/"><img src="../../public/images/LogoNav.png" alt=""></a>
+
+              {{!-- <span style="font-size:15px" class="navbar-brand page-scroll">All Images Copyrighted</span> --}}
+          </div>
+
+          <!-- Collect the nav links, forms, and other content for toggling -->
+          <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right nav-links">
+                  <li>
+                      <a href="/admin">Admin</a>
+                  </li>
+                  <li>
+                      <a href="/products">Products</a>
+                  </li>
+                  <li>
+                      <a href="/logos">Logos</a>
+                  </li>  
+                  <li>
+                      <a href="/about">About</a>
+                  </li>                                   
+                  <li>
+                      <a href="/contact">Contact Us</a>
+                  </li> 
+{{!--                   <li>
+                      <a href="/users/account">Account</a>
+                  </li>    --}}
+                  <li>
+                      <a href="/users/logout">Logout</a>
+                  </li>  
+                  <li>
+                      <a href="/users/login">Login</a>
+                  </li>
+                  <li>
+                      <a href="/users/register">Create Account</a>
+                  </li>
+              </ul>
+          </div>
+          <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container-fluid -->
+  </nav> 
+</nav>    
