@@ -14,18 +14,13 @@ var app = express();
 app.set('views', './views');
 app.set('view engine', 'hbs');
 
-// hbs.registerHelper("inc", function(value, options)
-// {
-//     return parseInt(value) + 1;
-// });
-
 // Register Partials
 hbs.registerPartials(__dirname + '/views/partials');
 hbsutils.registerWatchedPartials(__dirname + '/views/partials'); // partial changes will restart nodemon
 
 // BodyParser Middleware
-app.use(bodyParser.json());
-app.use(bodyParser.urlencoded({ extended: false }));
+app.use(bodyParser.json({limit: '50mb', extended: true}));
+app.use(bodyParser.urlencoded({limit: '50mb', extended: true}));
 app.use(cookieParser());
 
 // Set Static Folder
