@@ -1,0 +1,368 @@
+<!-- footer driver cwise_2018/10/22  updated 121018 cesfab  -->
+
+  
+  
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="background-color: #000000; border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"> 
+    
+    <tr> 
+     <td class="outsidegutter" align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding: 0 14px 0 14px;"> 
+      <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;" class=""> 
+        
+        <tr> 
+         <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding-top: 30px; padding-bottom: 30px;"> 
+          <!--[if (gte mso 9)|(IE)]>
+<table width="56" align="%%=v(@align)=%%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+     <td>
+        <![endif]--> 
+          <table border="0" cellpadding="0" cellspacing="0" class="t1of12" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; max-width: 56px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"> 
+            
+            <tr> 
+             <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding-%%=v(@align)=%%: 12px; padding-%%=v(@alignOpp)=%%: 12px;"> 
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; font-size: 1px; line-height: 1px; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"> 
+                
+                <tr> 
+                 <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;">&nbsp;</td> 
+                </tr> 
+                
+              </table> </td> 
+            </tr> 
+            
+          </table> 
+          <!--[if (gte mso 9)|(IE)]>
+     </td>
+  </tr>
+</table>
+<![endif]--> 
+          <!--[if mso]></td>
+<td valign="top">
+  <![endif]--> 
+          <!--[if (gte mso 9)|(IE)]>
+<table width="616" align="center" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+     <td>
+        <![endif]--> 
+          <table border="0" cellpadding="0" cellspacing="0" class="t11of12 layout" align="%%=v(@align)=%%" style="Margin: 0 auto; border: none; border-collapse: collapse; border-spacing: 0; max-width: 616px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"> 
+            
+            <tr> 
+             <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;font-size: 1px; height: 1px; line-height: 1px; padding-%%=v(@align)=%%: 0px !important; padding-%%=v(@alignOpp)=%%: 0px !important;"> 
+              <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"> 
+                
+                <tr> 
+                 <td dir="%%=v(@dirOpp)=%%" style="font-size: 0; text-align: %%=v(@align)=%%; direction: %%=v(@dirOpp)=%%;"> 
+                  <!--[if (gte mso 9)|(IE)]>
+           <table width="100%" dir="%%=v(@dirOpp)=%%">
+           <tr>
+           <td width="280">
+           <![endif]--> 
+                  <table border="0" cellpadding="0" cellspacing="0" dir="%%=v(@dir)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; display: inline-block; max-width: 280px; mso-table-lspace: 0; mso-table-rspace: 0; vertical-align: top; width: 100%;" class="full"> 
+                    
+                    <tr> 
+                     <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding-%%=v(@align)=%%: 12px; padding-%%=v(@alignOpp)=%%: 12px; padding-bottom: 20px;"> 
+                      <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"> 
+                       
+                         %%[IF @bu == 1 AND @ID == 1 THEN]%% 
+                        <tr> 
+                         <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"> 
+                          <!--[if (gte mso 9)|(IE)]>
+<table width="250" align="%%=v(@align)=%%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<![endif]--> 
+                          <div class="" style="font-family: 'UberMoveText-Bold', 'HelveticaNeueMedium', 'HelveticaNeue-Medium', 'Helvetica Neue Medium', Helvetica, Arial, sans-serif; font-size: 16px; line-height: 22px;"> 
+                           <a href="https://partners.uber.com/deeplink/referrals" style="background-color: #000000; border-color: #ffffff; border-radius: 0px; border-style: solid; border-width: 2px; color: #ffffff; display: inline-block; font-size: 12px; letter-spacing: 1px; max-width: 350px; min-width: 150px; padding: 8px 8px; text-align: center; text-decoration: none; transition: all 0.2s ease-in;"><span style="float:%%=v(@align)=%%;text-align:%%=v(@align)=%%;">Earn with referrals</span> 
+                            <!--[if !mso]><!-- --><span style="float:%%=v(@alignOpp)=%%;padding-top:3px; display:inline-block;"> <img src="https://s3.amazonaws.com/uber-static/emails/2018/global/arrows/arrow2_white_%%=v(@align)=%%.png" width="14" height="13" style="-ms-interpolation-mode: bicubic; Margin-%%=v(@align)=%%: 7px; border: none; clear: both; display: block; margin-top: 2px; max-width: 100%; outline: none; text-decoration: none;" alt="" class=""></span> 
+                            <!--<![endif]--> </a> 
+                          </div> 
+                          <!--[if (gte mso 9)|(IE)]>
+</td>
+</tr>
+</table>
+<![endif]--></td> 
+                        </tr> %%[ELSE]%% %%[ENDIF]%% 
+                        
+                      </table> </td> 
+                    </tr> 
+                    
+                  </table> 
+                  <!--[if (gte mso 9)|(IE)]>
+           </td><td width="224">
+           <![endif]--> 
+                  <!--[if (gte mso 9)|(IE)]>
+<table width="336" align="%%=v(@align)=%%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+     <td>
+        <![endif]--> 
+                  <table border="0" cellpadding="0" cellspacing="0" dir="%%=v(@dir)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; display: inline-block; max-width: 336px; mso-table-lspace: 0; mso-table-rspace: 0; vertical-align: middle; width: 100%;"> 
+                    
+                    <tr> 
+                     <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"> 
+                      <!--[if (gte mso 9)|(IE)]>
+                 <table width="168" align="%%=v(@align)=%%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                     <td>
+                      <![endif]--> 
+                      <table border="0" cellpadding="0" cellspacing="0" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; max-width: 168px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"> 
+                        
+                        <tr> 
+                         <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding-%%=v(@align)=%%: 12px; padding-%%=v(@alignOpp)=%%: 12px;"> 
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"> 
+                            
+                            <tr> 
+                             <td class="white" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;color: #000000; font-family: 'UberMoveText-Regular', 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; padding: 3px 0;"> %%[IF @bu == 1 OR @bu == 13 THEN]%% 
+                              <!-- partner --> <a href="https://help.uber.com/partners" style="color:#fff;text-decoration:none">%%=v(@getHelp)=%%</a> %%[ELSEIF @bu == 2 THEN]%% 
+                              <!-- rider --> <a href="https://help.uber.com/" style="color:#fff;text-decoration:none">%%=v(@getHelp)=%%</a> %%[ELSEIF @bu == 3 OR @bu == 4 THEN]%% 
+                              <!-- eater / courier --> <a href="https://help.uber.com/ubereats" style="color:#fff;text-decoration:none">%%=v(@getHelp)=%%</a> %%[ELSEIF @bu == 5 THEN]%% 
+                              <!-- restaurants --> <a href="https://help.uber.com/restaurants" style="color:#fff;text-decoration:none">%%=v(@getHelp)=%%</a> %%[ELSEIF @bu == 6 OR @bu == 7 OR @bu == 8 THEN]%% 
+                              <!-- freight --> <a href="https://www.uberfreight.com/support" style="color:#fff;text-decoration:none">%%=v(@getHelp)=%%</a> %%[ELSEIF @bu == 9 THEN]%% 
+                              <!-- u4b admin --> <a href="https://uberforbusinesshelp.com/" style="color:#fff;text-decoration:none">%%=v(@getHelp)=%%</a> %%[ELSEIF @bu == 10 THEN]%% 
+                              <!-- u4b employee --> <a href="https://uberforbusinesshelp.com/business-riders/" style="color:#fff;text-decoration:none">%%=v(@getHelp)=%%</a> %%[ELSEIF @bu == 11 THEN]%% 
+                              <!-- XCL --> <a href="mailto:support@xchangeleasing.com" style="color:#fff;text-decoration:none">%%=v(@getHelp)=%%</a> %%[ELSE]%% <a href="https://help.uber.com/" style="color:#fff;text-decoration:none">%%=v(@getHelp)=%%</a> %%[ENDIF]%% </td> 
+                            </tr> 
+                            <tr> 
+                             <td class="white" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;color: #000000; font-family: 'UberMoveText-Regular', 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; padding: 3px 0;"> %%[IF @id == 140 THEN]%% <a href="http://uberportugal.com/termos-de-utilizacao-do-utilizador/" style="color:#ffffff;text-decoration:none;">%%=v(@terms)=%%</a> %%[ELSEIF @bu == 1 OR @bu == 13 THEN]%% 
+                              <!-- partner --> <a href="https://www.uber.com/legal/terms/" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[ELSEIF @bu == 2 THEN]%% 
+                              <!-- rider --> <a href="https://www.uber.com/legal/terms/" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[ELSEIF @bu == 3 OR @bu == 4 THEN]%% 
+                              <!-- eater / courier --> <a href="https://www.uber.com/legal/terms/" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[ELSEIF @bu == 5 THEN]%% 
+                              <!-- restaurants --> <a href="https://www.uber.com/legal/terms/" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[ELSEIF @bu == 6 OR @bu == 7 OR @bu == 8 THEN]%% 
+                              <!-- freight --> <a href="https://www.uberfreight.com/terms-and-conditions" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[ELSEIF @bu == 9 OR @bu == 10 THEN]%% 
+                              <!-- u4b admin & employee --> %%[IF @ID == 1 THEN]%% <a href="https://www.uber.com/legal/business/ubertravel/en-US" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[elseIF @ID == 10 THEN]%% <a href="https://www.uber.com/legal/business/ubertravel/en-AU" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[elseIF @ID == 77 THEN]%% <a href="https://www.uber.com/legal/business/ubertravel/en-IN" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[ELSE]%% <a href="https://www.uber.com/legal/business/ubertravel/en" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[ENDIF]%% %%[ELSEIF @bu == 11 THEN]%% 
+                              <!-- XCL --> <a href="https://www.uber.com/legal/terms/" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[ELSE]%% <a href="https://www.uber.com/legal/" style="color:#fff;text-decoration:none">%%=v(@terms)=%%</a> %%[ENDIF]%% </td> 
+                            </tr> 
+                            <tr> 
+                             <td class="white" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;color: #000000; font-family: 'UberMoveText-Regular', 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; padding: 3px 0;"> <a href="%%view_email_url%%" style="color:#fff;text-decoration:none"> %%=v(@vo)=%% </a> </td> 
+                            </tr> 
+                            
+                          </table> </td> 
+                        </tr> 
+                        
+                      </table> 
+                      <!--[if (gte mso 9)|(IE)]>
+                     </td>
+                    </tr>
+                 </table>
+                 <![endif]--> 
+                      <!--[if mso]></td>
+                 <td valign="top">
+                    <![endif]--> 
+                      <!--[if (gte mso 9)|(IE)]>
+                 <table width="168" align="%%=v(@align)=%%" cellpadding="0" cellspacing="0" border="0">
+                    <tr>
+                     <td>
+                      <![endif]--> 
+                      <table border="0" cellpadding="0" cellspacing="0" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; max-width: 168px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"> 
+                        
+                        <tr> 
+                         <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding-%%=v(@align)=%%: 12px; padding-%%=v(@alignOpp)=%%: 12px;"> 
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"> 
+                            
+                            <tr> 
+                             <td class="white" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;color: #000000; font-family: 'UberMoveText-Regular', 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; padding: 3px 0;"> %%[IF @id == 140 THEN]%% <a href="http://uberportugal.com/user-privacy-statement/" style="color:#ffffff;text-decoration:none;">%%=v(@privacy)=%%</a> %%[ELSEIF @bu == 1 OR @bu == 13 THEN]%% 
+                              <!-- partner --> <a href="https://privacy.uber.com/policy/" style="color:#fff;text-decoration:none">%%=v(@privacy)=%%</a> %%[ELSEIF @bu == 2 THEN]%% 
+                              <!-- rider --> <a href="https://privacy.uber.com/policy/" style="color:#fff;text-decoration:none">%%=v(@privacy)=%%</a> %%[ELSEIF @bu == 3 OR @bu == 4 THEN]%% 
+                              <!-- eater / courier --> <a href="https://privacy.uber.com/policy/" style="color:#fff;text-decoration:none">%%=v(@privacy)=%%</a> %%[ELSEIF @bu == 5 THEN]%% 
+                              <!-- restaurants --> <a href="https://privacy.uber.com/policy/" style="color:#fff;text-decoration:none">%%=v(@privacy)=%%</a> %%[ELSEIF @bu == 6 OR @bu == 7 OR @bu == 8 THEN]%% 
+                              <!-- freight --> <a href="https://www.uberfreight.com/privacy-policy" style="color:#fff;text-decoration:none">%%=v(@privacy)=%%</a> %%[ELSEIF @bu == 9 OR @bu == 10 THEN]%% 
+                              <!-- u4b admin & employee --> <a href="https://privacy.uber.com/policy/" style="color:#fff;text-decoration:none">%%=v(@privacy)=%%</a> %%[ELSEIF @bu == 11 THEN]%% 
+                              <!-- XCL --> <a href="https://privacy.uber.com/policy/" style="color:#fff;text-decoration:none">%%=v(@privacy)=%%</a> %%[ELSE]%% <a href="https://privacy.uber.com/policy/" style="color:#fff;text-decoration:none">%%=v(@privacy)=%%</a> %%[ENDIF]%% </td> 
+                            </tr> %%[IF @id == 1 AND @bu == 2 THEN]%% 
+                            <tr> 
+                             <td class="white" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;color: #000000; font-family: 'UberMoveText-Regular', 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; padding: 3px 0;"> <a href="https://www.uber.com/legal/community-guidelines/us-en/" style="color:#fff;text-decoration:none"> Community </a> </td> 
+                            </tr> %%[ELSE]%% %%[ENDIF]%% 
+                            <tr> 
+                             <td class="white" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;color: #000000; font-family: 'UberMoveText-Regular', 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; padding: 3px 0;"> %%[IF @id == 140 THEN]%% <a href="https://pt.uber.com/pt-PT/unsubscribe/" style="color:#fff;text-decoration:none">%%=v(@unsub)=%%</a> %%[ELSE]%% <a href="https://uber.com/unsubscribe?et_job_id=%%jobid%%&et_batch_id=%%_JobSubscriberBatchID%%&et_list_id=%%listid%%" style="color:#fff;text-decoration:none">%%=v(@unsub)=%%</a> %%[ENDIF]%% </td> 
+                            </tr> 
+                            
+                          </table> </td> 
+                        </tr> 
+                        
+                      </table> 
+                      <!--[if (gte mso 9)|(IE)]>
+                     </td>
+                    </tr>
+                 </table>
+                 <![endif]--> </td> 
+                    </tr> 
+                    
+                  </table> 
+                  <!--[if (gte mso 9)|(IE)]>
+     </td>
+  </tr>
+</table>
+<![endif]--> 
+                  <!--[if (gte mso 9)|(IE)]>
+     </td>
+  </tr>
+</table>
+<![endif]--> </td> 
+                </tr> 
+                
+              </table> </td> 
+            </tr> 
+            
+          </table> 
+          <!--[if (gte mso 9)|(IE)]>
+     </td>
+  </tr>
+</table>
+<![endif]--> </td> 
+        </tr> 
+        
+      </table> </td> 
+    </tr> 
+    <tr> 
+     <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"> 
+      <!-- Offblock second section --> 
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"> 
+        
+        <tr> 
+         <td class="outsidegutter" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding: 0 14px 0 14px; padding-bottom: 30px;"> 
+          <table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;" class=""> 
+            
+            <tr> 
+             <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"> 
+              <!--[if (gte mso 9)|(IE)]>
+<table width="56" align="%%=v(@align)=%%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+     <td>
+        <![endif]--> 
+              <table border="0" cellpadding="0" cellspacing="0" class="t1of12 layout" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; max-width: 56px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"> 
+                
+                <tr> 
+                 <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;font-size: 1px; height: 1px; line-height: 1px; padding-%%=v(@align)=%%: 0px !important; padding-%%=v(@alignOpp)=%%: 0px !important;"> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"> 
+                    
+                    <tr> 
+                     <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;">&nbsp;</td> 
+                    </tr> 
+                    
+                  </table> </td> 
+                </tr> 
+                
+              </table> 
+              <!--[if (gte mso 9)|(IE)]>
+     </td>
+  </tr>
+</table>
+<![endif]--> 
+              <!--[if mso]></td>
+<td valign="top">
+  <![endif]--> 
+              <!--[if (gte mso 9)|(IE)]>
+<table width="616" align="%%=v(@align)=%%" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+     <td>
+        <![endif]--> 
+              <table border="0" cellpadding="0" cellspacing="0" class="t11of12 layout" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; max-width: 616px; mso-table-lspace: 0; mso-table-rspace: 0; width: 100%;"> 
+                
+                <tr> 
+                 <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;font-size: 1px; height: 1px; line-height: 1px; padding-%%=v(@align)=%%: 0px !important; padding-%%=v(@alignOpp)=%%: 0px !important;"> 
+                  <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"> 
+                    
+                    <tr> 
+                     <td dir="%%=v(@dirOpp)=%%" style="font-size: 0; text-align: %%=v(@align)=%%; direction: %%=v(@dirOpp)=%%;"> 
+                      <!--[if (gte mso 9)|(IE)]>
+           <table width="100%" dir="%%=v(@dirOpp)=%%">
+           <tr>
+           <td width="336">
+           <![endif]--> 
+                      <table border="0" cellpadding="0" cellspacing="0" class="t4of12" dir="%%=v(@dir)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; display: inline-block; max-width: 224px; mso-table-lspace: 0; mso-table-rspace: 0; vertical-align: top; width: 100%;"> 
+                        
+                        <tr> 
+                         <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding-%%=v(@align)=%%: 12px; padding-%%=v(@alignOpp)=%%: 12px;"> 
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"> 
+                            
+                            <tr> 
+                             <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding-bottom: 12px;"> 
+                              <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 130px;"> 
+                               
+                                 %%[IF @bu == 5 AND @country_id==32 THEN]%% 
+                                <tr> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://www.facebook.com/UberEatsCanada/"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18facebook.png" width="13" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 13px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://twitter.com/ubereats"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18twitter.png" width="19" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 19px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://www.instagram.com/ubereats_canada/"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18instagram.png" width="16" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 16px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                </tr> %%[ELSEIF @bu == 5 THEN]%% 
+                                <tr> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://www.facebook.com/ubereats/"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18facebook.png" width="13" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 13px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://twitter.com/ubereats"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18twitter.png" width="19" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 19px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://www.instagram.com/ubereats/"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18instagram.png" width="16" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 16px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                </tr> %%[ELSEIF @bu == 6 OR @bu == 7 OR @bu == 8 THEN]%% 
+                                <tr> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://www.facebook.com/uberfreight/"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18facebook.png" width="13" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 13px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://twitter.com/uberfreight"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18twitter.png" width="19" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 19px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://www.instagram.com/uberfreight/"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18instagram.png" width="16" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 16px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                </tr> %%[ELSEIF @bu == 3 AND @country_id==32 THEN]%% 
+                                <tr> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://facebook.com/UberEatsCanada"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18facebook.png" width="13" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 13px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://twitter.com/UberEats"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18twitter.png" width="19" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 19px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://instagram.com/ubereats_canada"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18instagram.png" width="16" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 16px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                </tr> %%[ELSEIF @bu == 3 THEN]%% 
+                                <tr> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://facebook.com/UberEats"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18facebook.png" width="13" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 13px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://twitter.com/UberEats"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18twitter.png" width="19" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 19px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://instagram.com/ubereats"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18instagram.png" width="16" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 16px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                </tr> %%[ELSE]%% 
+                                <tr> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://www.facebook.com/uber/"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18facebook.png" width="13" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 13px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://twitter.com/Uber"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18twitter.png" width="19" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 19px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                 <td align="%%=v(@align)=%%" style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;"><a href="https://www.instagram.com/uber/"><img src="https://s3.amazonaws.com/uber-static/emails/2018/global/icons/08_28_18instagram.png" width="16" height="" border="0" style="-ms-interpolation-mode: bicubic; border: none; clear: both; display: block; height: auto; max-height: 17px; max-width: 16px; outline: none; text-decoration: none; width: 100%;"></a></td> 
+                                </tr> %%[ENDIF]%% 
+                                
+                              </table></td> 
+                            </tr> 
+                            
+                          </table> </td> 
+                        </tr> 
+                        
+                      </table> 
+                      <!--[if (gte mso 9)|(IE)]>
+           </td><td width="392">
+           <![endif]--> 
+                      <table border="0" cellpadding="0" cellspacing="0" class="t6of12" dir="%%=v(@dir)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; display: inline-block; max-width: 336px; mso-table-lspace: 0; mso-table-rspace: 0; vertical-align: middle; width: 100%;"> 
+                        
+                        <tr> 
+                         <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;padding-%%=v(@align)=%%: 12px; padding-%%=v(@alignOpp)=%%: 12px;"> 
+                          <table border="0" cellpadding="0" cellspacing="0" width="100%" align="%%=v(@align)=%%" style="border: none; border-collapse: collapse; border-spacing: 0; mso-table-lspace: 0; mso-table-rspace: 0; table-layout: fixed; width: 100%;"> 
+                            
+                            <tr> 
+                             <td style="direction:%%=v(@dir)=%%;text-align:%%=v(@align)=%%;color:#E5E5E5; font-family: 'UberMoveText-Regular', 'HelveticaNeue', Helvetica, Arial, sans-serif; font-size: 10px; line-height: 18px;"> %%[IF @bu == 11 THEN]%% Xchange Leasing, LLC<br> 795 Folsom Street, Suite 114<br> San Francisco, CA 94107 
+                              <!-- u4b admin & employee --> %%[ELSEIF @bu == 9 OR @bu == 10 THEN]%% %%[IF @ID == 1 THEN]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> Uber Technologies<br> 1455 Market St., San Francisco, CA 94103 %%[ELSEIF @ID == 10 THEN]%% Uber Pacific Pty Ltd <br> Unit 8, 1 O’Connell Street<br> NSW 2000, Sydney Australia %%[ELSEIF @ID == 25 THEN]%% Uber do Brasil Tecnologia Ltda.<br> Av. Brigaderio Faria Lima 201 - Pinheiros<br> Sao Paulo - SP, 05426-100 %%[ELSEIF @ID == 77 THEN]%% Uber India Systems PVT LTD <br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSEIF @ID == 32 THEN]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> <br> Uber B.V. <br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSEIF @ID == 86 THEN]%% Uber International BV / Jordan <br> As-Senaah Street, Building Number 6,<br> second floor, Amman, Jordan %%[ELSEIF @ID == 126 THEN]%% Rasier New Zealand Limited <br> PKF Goldsmith Fox, Level 1<br> 100 Moorhouse Avenue<br> Christchurch, 8011, New Zealand<br> %%[ELSE]%% Uber B.V.<br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ENDIF]%% %%[ELSEIF @ID == 25 THEN]%% Uber do Brasil Tecnologia Ltda. 
+                              <!-- driver --> %%[ELSEIF @bu == 1 OR @bu == 13 THEN]%% %%[IF @ID == 10 THEN]%% Uber Pacific V.O.F.<br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSEIF @ID == 1 THEN]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> Uber Technologies<br> 1455 Market St., San Francisco, CA 94103 %%[ELSE]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> Uber B.V. <br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ENDIF]%% 
+                              <!-- eater --> %%[ELSEIF @bu == 3 THEN]%% %%[IF @ID == 126 THEN]%% Uber Portier B.V.<br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSEIF @ID == 1 THEN]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> Uber Technologies<br> 1455 Market St., San Francisco, CA 94103 %%[ELSE]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> Uber B.V. <br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ENDIF]%% 
+                              <!-- courier --> %%[ELSEIF @bu == 4 THEN]%% %%[IF @ID == 10 THEN]%% Portier Pacific V.O.F.<br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSEIF @ID == 126 THEN]%% Uber Portier B.V.<br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSEIF @ID == 1 THEN]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> Uber Technologies<br> 1455 Market St., San Francisco, CA 94103 %%[ELSE]%% Uber Portier B.V. <br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ENDIF]%% 
+                              <!-- freight --> %%[ELSEIF @bu == 6 OR @bu == 7 OR @bu == 8 THEN]%% Uber Freight LLC is a licensed broker: MC# 987790<br> %%[IF @legalT != "transactional" THEN]%% %%=v(@legalMessage)=%% Uber Technologies <br> %%[ENDIF]%% 1455 Market St., San Francisco, CA 94103 
+                              <!-- restaurant --> %%[ELSEIF @bu == 5 THEN]%% %%[IF @ID == 10 THEN]%% Portier Pacific V.O.F.<br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSEIF @ID == 126 THEN]%% Uber Portier B.V.<br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSEIF @ID == 1 THEN]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> Uber Technologies<br> 1455 Market St., San Francisco, CA 94103 %%[ELSEIF @ID == 32 THEN]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> <br> Uber Portier B.V. <br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSE]%% Uber Portier B.V. <br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ENDIF]%% %%[ELSEIF @bu == 12 THEN]%% Uber Motorbike, B.V.<br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ELSEIF @id == 1 THEN]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> Uber Technologies<br> 1455 Market St., San Francisco, CA 94103 %%[ELSE]%% <span style="font-size:10px;">%%=v(@legalMessage)=%%</span> Uber B.V. <br> Mr. Treublaan 7<br> 1097 DP Amsterdam %%[ENDIF]%% <br> <a href="https://uber.com" style="text-decoration: none; color: #e5e5e5">Uber.com</a> </td> 
+                            </tr> 
+                            
+                          </table> </td> 
+                        </tr> 
+                        
+                      </table> 
+                      <!--[if (gte mso 9)|(IE)]>
+     </td>
+  </tr>
+</table>
+<![endif]--> </td> 
+                    </tr> 
+                    
+                  </table> </td> 
+                </tr> 
+                
+              </table> 
+              <!--[if (gte mso 9)|(IE)]>
+     </td>
+  </tr>
+</table>
+<![endif]--> </td> 
+            </tr> 
+            
+          </table> </td> 
+        </tr> 
+        
+      </table> 
+      <!-- close Offblock second section --> </td> 
+    </tr> 
+    
+  </table> 
+  <!-- close footer cwise_2018/10/22  -->  
+ 

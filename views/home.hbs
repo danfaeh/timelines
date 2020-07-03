@@ -1,62 +1,18 @@
 {{> nav}}
 
-<div id="homeBackdrop">
+<img src="../public/images/starbase.jpeg" id="bg" alt="">
 
-  <div class="container">
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
 
-    <div id="content_start">
-      <p>You can load your player information from the game's website and get rich insights from it, including finding duplicate crew</p>
+      <br><br><br><br>
+      <h1 class="text-right" style="color: #fff; margin-right:10%">Welcome to stt.tips</h1>
 
-      <p>This website cannot make requests directly to DB's servers (due to security configurations as well as unclear communication from them about ToS interpretation), so there are a few manual steps required to import your data:</p>
-
-      <p>
-        <ul>
-          <li>Open this page in your browser: <a href="https://stt.disruptorbeam.com/player" target="_blank">https://stt.disruptorbeam.com/player</a>, make sure you are logged in and your player data is loaded; it should look like a bunch of gibberish starting with {"action":"update","player": ...</li>
-          <li>Select everything in the page (Ctrl+A) and copy it (Ctrl+C)</li>
-          <li>Paste the contents in the text box, then click the 'Read data' button below</li>
-        </ul>
-      </p>
     </div>
-
-      <div class="container">
-          <div class="row">
-              <div class="">
-                  <div class="well well-sm">
-                      <form id="crew_form" method="POST">
-                      <div class="row">
-                          <div class="col-md-12">
-                              <div class="form-group">
-                                  <label for="name">
-                                      JSON</label>
-                                  <textarea name="json" id="json" class="form-control" rows="9" cols="25" required="required"
-                                      placeholder="Paste content here"></textarea>
-                              </div>
-                          </div>
-                          <div class="col-md-12">
-                              <button type="submit" class="btn btn-primary pull-left" id="btnContactUs">
-                                  Read data</button>
-                          </div>
-                      </div>
-                      </form>
-                  </div>
-              </div>
-          </div>
-      </div>
   </div>
-
-  <div class="container">
-    <div class="row">
-        <div class="col-md-12">
-            <div class="well well-sm">
-                <p id="dupe_crew"></p>
-            </div>
-        </div>
-    </div>   
-  </div>
-
 </div>
 
-{{> footer}}
 
 
 
